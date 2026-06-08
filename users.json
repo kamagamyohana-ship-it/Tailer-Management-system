@@ -1,0 +1,44 @@
+[
+    {
+        "full_name": "sabato",
+        "email": "sabato@gial.com",
+        "password": "$2y$10$dZ76R28vktI7puy\/VQC1teZRpHZMyGQRYgal2qCgOftcB0byHLzvy",
+        "role": "user",
+        "created_at": "2026-06-04 21:10:20"
+    },
+    {
+        "full_name": "maro",
+        "email": "maro@gmail.com",
+        "password": "$2y$10$Oxch1GfJsXGnyudOAoUUfuBMwVrgNFZvgqe92gZmFtjtJW8dr0fdS",
+        "role": "user",
+        "created_at": "2026-06-04 21:41:33"
+    },
+    {
+        "full_name": "john",
+        "email": "john@gmail.com",
+        "password": "$2y$10$cxnaCKk8tKc8e7meD0RMfuVvNBHbG0RjqNI.3dEVDqvQNnpgtDlwG",
+        "role": "user",
+        "created_at": "2026-06-04 22:44:53"
+    },
+    {
+        "full_name": "kamaga",
+        "email": "kamaga@gmail.com",
+        "password": "$2y$10$VPj7rt9XqyMSrAroT.Xe3e9wrm6hvOdc0XdyLl0QIDGQKB7UZu\/9q",
+        "role": "admin",
+        "created_at": "2026-06-04 23:31:38"
+    },
+    {
+        "full_name": "kulwa kulindi",
+        "email": "kulwa@gmail.com",
+        "password": "$2y$10$MB.1NoVUtPc9FsGoDrDMJOArSbi\/3ADuaZJzRoR7BG6gB0XlwkbIm",
+        "role": "user",
+        "created_at": "2026-06-08 01:37:30"
+    },
+    {
+        "full_name": "jeny",
+        "email": "jeny@gmail.com",
+        "password": "$2y$10$Ys0GXUFXmpQGVPFHaMrzNOnClaEECOgvGBdUze8cJeZDp06TMX8I.",
+        "role": "user",
+        "created_at": "2026-06-08 01:43:02"
+    }
+]
